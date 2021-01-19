@@ -1,3 +1,4 @@
+https://snow.js.org/mabaoguo/
 https://snow.js.org/butterfly-aplayer/
 https://snow.js.org/stl-set/
 https://snow.js.org/dp-series/
@@ -26,7 +27,6 @@ https://snow.js.org/future/
 https://snow.js.org/about-splay/
 https://snow.js.org/noip2020-you-ji/
 https://snow.js.org/dp-graph/
-https://snow.js.org/mabaoguo/
 https://snow.js.org/numa/
 https://snow.js.org/terminal-extra/
 https://snow.js.org/ning-mei/
