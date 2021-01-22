@@ -1,10 +1,11 @@
+https://snow.js.org/hexo-vercel/
+https://snow.js.org/kpl2020/
 https://snow.js.org/mabaoguo/
 https://snow.js.org/butterfly-aplayer/
 https://snow.js.org/stl-set/
 https://snow.js.org/dp-series/
 https://snow.js.org/about-codestyle/
 https://snow.js.org/noip-d2t1/
-https://snow.js.org/hexo-vercel/
 https://snow.js.org/hexo-ssh-deploy/
 https://snow.js.org/cf387d/
 https://snow.js.org/hexo-gulp-pwa/
