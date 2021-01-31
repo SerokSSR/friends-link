@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://snow.js.org/snow/</loc>
+    <lastmod>2021-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://snow.js.org/hexo-vercel/</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://snow.js.org/noip-d2t1/</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
+    <loc>https://snow.js.org/dp-graph/</loc>
+    <lastmod>2021-01-29</lastmod>
+  </url>
+  <url>
     <loc>https://snow.js.org/num-inv/</loc>
     <lastmod>2021-01-26</lastmod>
   </url>
@@ -14,10 +30,6 @@
   </url>
   <url>
     <loc>https://snow.js.org/about-codestyle/</loc>
-    <lastmod>2021-01-26</lastmod>
-  </url>
-  <url>
-    <loc>https://snow.js.org/noip-d2t1/</loc>
     <lastmod>2021-01-26</lastmod>
   </url>
   <url>
@@ -50,10 +62,6 @@
   </url>
   <url>
     <loc>https://snow.js.org/monotonous-queue/</loc>
-    <lastmod>2021-01-26</lastmod>
-  </url>
-  <url>
-    <loc>https://snow.js.org/dp-graph/</loc>
     <lastmod>2021-01-26</lastmod>
   </url>
   <url>
@@ -126,14 +134,6 @@
   </url>
   <url>
     <loc>https://snow.js.org/mo-shang/</loc>
-    <lastmod>2021-01-26</lastmod>
-  </url>
-  <url>
-    <loc>https://snow.js.org/snow/</loc>
-    <lastmod>2021-01-26</lastmod>
-  </url>
-  <url>
-    <loc>https://snow.js.org/hexo-vercel/</loc>
     <lastmod>2021-01-26</lastmod>
   </url>
   <url>
