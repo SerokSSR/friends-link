@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://snow.js.org/big-fish/</loc>
+    <lastmod>2021-02-02</lastmod>
+  </url>
+  <url>
     <loc>https://snow.js.org/xie-hou/</loc>
     <lastmod>2021-02-02</lastmod>
   </url>
@@ -37,11 +41,11 @@
     <lastmod>2021-01-26</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/stl-set/</loc>
+    <loc>https://snow.js.org/about-codestyle/</loc>
     <lastmod>2021-01-26</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/about-codestyle/</loc>
+    <loc>https://snow.js.org/stl-set/</loc>
     <lastmod>2021-01-26</lastmod>
   </url>
   <url>
@@ -121,11 +125,11 @@
     <lastmod>2021-01-26</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/network-flow-dijkstra/</loc>
+    <loc>https://snow.js.org/maximum-flow/</loc>
     <lastmod>2021-01-26</lastmod>
   </url>
   <url>
-    <loc>https://snow.js.org/maximum-flow/</loc>
+    <loc>https://snow.js.org/network-flow-dijkstra/</loc>
     <lastmod>2021-01-26</lastmod>
   </url>
   <url>
