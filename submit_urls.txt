@@ -13,7 +13,6 @@ https://snow.js.org/stl-set/
 https://snow.js.org/about-codestyle/
 https://snow.js.org/hexo-gulp-pwa/
 https://snow.js.org/hexo-ssh-deploy/
-https://snow.js.org/noip2020-you-ji/
 https://snow.js.org/cf387d/
 https://snow.js.org/ning-mei/
 https://snow.js.org/dp-linear/
@@ -36,4 +35,5 @@ https://snow.js.org/network-flow-template/
 https://snow.js.org/network-flow-deloop/
 https://snow.js.org/still-using-stl-sort/
 https://snow.js.org/mo-shang/
+https://snow.js.org/noip2020-you-ji/
 https://snow.js.org/dp-series/
