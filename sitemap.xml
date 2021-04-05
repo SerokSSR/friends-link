@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://snow.js.org/friends/</loc>
+    
+    <lastmod>2021-04-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://snow.js.org/about-blog/</loc>
     
-    <lastmod>2021-03-21</lastmod>
+    <lastmod>2021-04-05</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://snow.js.org/errors/</loc>
+    
+    <lastmod>2021-04-05</lastmod>
     
   </url>
   
@@ -16,23 +30,9 @@
   </url>
   
   <url>
-    <loc>https://snow.js.org/friends/</loc>
-    
-    <lastmod>2021-02-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://snow.js.org/big-fish/</loc>
     
     <lastmod>2021-02-10</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://snow.js.org/errors/</loc>
-    
-    <lastmod>2021-02-07</lastmod>
     
   </url>
   
